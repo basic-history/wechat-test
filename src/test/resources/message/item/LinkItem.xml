@@ -1,0 +1,10 @@
+<xml>
+    <ToUserName><![CDATA[to]]></ToUserName>
+    <FromUserName><![CDATA[from]]></FromUserName>
+    <CreateTime>1348831860</CreateTime>
+    <MsgType><![CDATA[link]]></MsgType>
+    <MsgId>1234567890123456</MsgId>
+    <Title><![CDATA[title]]></Title>
+    <Description><![CDATA[description]]></Description>
+    <Url><![CDATA[url]]></Url>
+</xml>

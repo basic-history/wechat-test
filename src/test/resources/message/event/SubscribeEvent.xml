@@ -1,0 +1,10 @@
+<xml>
+    <ToUserName><![CDATA[to]]></ToUserName>
+    <FromUserName><![CDATA[from]]></FromUserName>
+    <CreateTime>1348831860</CreateTime>
+    <MsgType><![CDATA[event]]></MsgType>
+    <MsgId>1234567890123456</MsgId>
+    <Event><![CDATA[subscribe]]></Event>
+    <EventKey><![CDATA[qrscene_qrcode]]></EventKey>
+    <Ticket><![CDATA[ticket]]></Ticket>
+</xml>

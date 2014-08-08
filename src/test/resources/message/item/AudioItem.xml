@@ -1,0 +1,10 @@
+<xml>
+    <ToUserName><![CDATA[to]]></ToUserName>
+    <FromUserName><![CDATA[from]]></FromUserName>
+    <CreateTime>1348831860</CreateTime>
+    <MsgType><![CDATA[voice]]></MsgType>
+    <MsgId>1234567890123456</MsgId>
+    <MediaId><![CDATA[media_id]]></MediaId>
+    <Format><![CDATA[amr]]></Format>
+    <Recognition><![CDATA[语音转中文]]></Recognition>
+</xml>

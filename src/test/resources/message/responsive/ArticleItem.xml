@@ -1,0 +1,23 @@
+<xml>
+    <ToUserName><![CDATA[to]]></ToUserName>
+    <FromUserName><![CDATA[from]]></FromUserName>
+    <CreateTime>1348831860</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>2</ArticleCount>
+    <Articles>
+        <item>
+            <Title><![CDATA[title1]]></Title>
+            <Description><![CDATA[description1]]></Description>
+            <PicUrl><![CDATA[picurl1]]></PicUrl>
+            <Url><![CDATA[url1]]></Url>
+        </item>
+        <item>
+            <Title><![CDATA[title2]]></Title>
+            <Description><![CDATA[description2]]></Description>
+            <PicUrl><![CDATA[picurl2]]></PicUrl>
+            <Url><![CDATA[url2]]></Url>
+        </item>
+    </Articles>
+
+</xml>
+

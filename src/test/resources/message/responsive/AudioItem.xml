@@ -1,0 +1,9 @@
+<xml>
+    <ToUserName><![CDATA[to]]></ToUserName>
+    <FromUserName><![CDATA[from]]></FromUserName>
+    <CreateTime>1348831860</CreateTime>
+    <MsgType><![CDATA[voice]]></MsgType>
+    <Voice>
+        <MediaId><![CDATA[media_id]]></MediaId>
+    </Voice>
+</xml>

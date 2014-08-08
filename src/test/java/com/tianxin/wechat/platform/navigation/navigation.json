@@ -1,0 +1,37 @@
+{"button": [
+    {
+        "name": "点击菜单1",
+        "type": "click",
+        "key": "KEY1"
+    },
+    {
+        "name": "点击菜单2",
+        "type": "click",
+        "key": "KEY2"
+    },
+    {
+        "name": "跳转菜单",
+        "type": "view",
+        "url": "http://www.baidu.com"
+    },
+    {
+        "name": "更多",
+        "sub_button": [
+            {
+                "name": "关于我们",
+                "type": "click",
+                "key": "about"
+            },
+            {
+                "name": "联系我们",
+                "type": "click",
+                "key": "contact"
+            },
+            {
+                "name": "主页",
+                "type": "view",
+                "url": "http://www.shtianxin.com"
+            }
+        ]
+    }
+]}
